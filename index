@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sim flusher 6-jernet 195 meter i God-mode</title>
+</head>
+<body>
+    <header>
+        <h1>Sim flusher 6-jernet 195 meter i God-mode</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Startside</a></li>
+            <li><a href="contact.html">Kontakt mig</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section>
+            <img src="https://example.com/path/to/image1.jpg" alt="Billede 1">
+            <img src="https://example.com/path/to/image2.jpg" alt="Billede 2">
+            <iframe src="https://www.youtube.com/embed/qXOqLLebe08" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <img src="https://example.com/path/to/image3.jpg" alt="Billede 3">
+            <iframe src="https://www.youtube.com/embed/xKkmNVpHHXI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Sim Golf</p>
+    </footer>
+</body>
+</html>
